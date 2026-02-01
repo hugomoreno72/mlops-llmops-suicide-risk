@@ -10,7 +10,7 @@ Este proyecto despliega una solución para la detección de comentarios sospecho
 
 ## 🛠️ Tecnologías Utilizadas
 
-FastAPI & Uvicorn.
-MLflow para el seguimiento de métricas y versionado de modelos.
-Scikit-Learn (Logistic Regression + TfidfVectorizer).
-Hugging Face Transformers.
+* FastAPI & Uvicorn.
+* MLflow para el seguimiento de métricas y versionado de modelos.
+* Scikit-Learn (Logistic Regression + TfidfVectorizer).
+* Hugging Face Transformers.
